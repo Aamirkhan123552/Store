@@ -1,0 +1,200 @@
+.navbar-nav
+{
+	padding: 20px;
+}
+#title
+{
+	background-color:#f09ae9;
+	color: white;
+		margin-bottom: 10px;
+		font-weight: bolder;
+		letter-spacing: 1px;
+}
+.dropdown-menu
+{
+	background-color:red;
+	color: white;
+}
+
+.container
+{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.navbar-brand p
+{
+	font-size: 40px;
+	 color:  white;
+	 margin-left: 80px;
+}
+
+
+.carousel-caption
+{
+	text-align: center;
+	margin-bottom: 150px;
+
+}
+
+.image-text
+{
+	color: white;
+	font-weight:bold;
+	white-space: 10px;
+	font-size: 30px;
+	letter-spacing: 2px;
+}
+#easy
+{
+	margin: 8% 18%;
+	text-align:center;
+}
+.cheak
+{
+	padding: 30px;
+}
+.icon
+{
+	color: #b83b5e;
+	font-size: 32px;
+
+}
+.card-body
+{
+
+	border:1px solid black;
+	overflow: hidden;
+	margin: 10px;
+	padding: 10px;
+
+}
+.rate
+{margin-top: 20px;
+	text-align: center;
+	margin-bottom: 10px;
+
+
+}
+.cimg{
+	width: 220px;
+	height: 100px;
+	position: relative;
+	right: 12px;
+}
+.d-block
+{
+	height: 400px;
+}
+.login
+{
+text-align: center;
+
+	background-color: #99b898;
+
+	min-height: 1000px;
+	 background: 		-webkit-linear-gradient(110deg, #fe91ca 70%, #ffc608 30%);
+
+}
+
+.footer
+{
+	margin-top: 40px;
+	background-color:#ffc1fa;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	margin-bottom: 0;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+padding-right: 30px;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+	outline: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 5px;
+
+	outline: 0px;
+}
+.h3
+{
+         width: 80;
+	border-bottom: 1px solid red;
+	margin-bottom: 40px;
+
+}
+.p
+{
+	margin-bottom: 40px;
+	color: white;
+}
+.reg{
+	color:red;
+	padding-left: 30px;
+
+}
+a.reg:hover{
+	color:green;
+	text-decoration: none;;
+
+}
+/*product page*/
+#containerproduct
+{
+	background-color: #ffffdd;
+}
+.container {
+  max-width: 960px;
+}
+
+.lh-condensed { line-height: 1.25; }
+#form
+{
+margin-top: 40px;
+	width:700px;
+  background-color:#ffc1fa;
+
+	box-shadow:2px
+}
+.contactus
+{
+	background-color: #f09ae9;
+	min-height: 800px;
+}
+.ch
+{
+	margin-top: 30px;
+	color: white;
+
+}
+.cont{
+	color: white;
+	margin-left: 330px;
+}
+#containerproduct1
+{
+padding-top:  70px;
+background-color: #ffffdd;
+}
